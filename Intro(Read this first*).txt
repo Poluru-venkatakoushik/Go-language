@@ -1,0 +1,12 @@
+GO language is introduced by Google
+It's faster than Python and is similiar to C
+1. Firstly we start by importing "main" package using the command
+			package main
+2. Then we import "fmt" which deals with input and output
+Programs :
+	1.HELLO WORLD 	(001)
+	2.variables		(002)
+	3.If - Else     (003)
+	4.Switch 		(004)
+	5.Loops  		(005)
+	6.Arrays 		(006)
